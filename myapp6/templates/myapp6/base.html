@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    
+    <title>
+        {% block title %}
+        Мой сайт
+        {% endblock %}
+    </title>
+</head>
+<body class="bg-light">
+<div class="container">
+<div class="py-5 text-center">
+    <header>
+        {% block header %}
+        Главная страница
+        {% endblock %}
+    </header>
+    <main>
+        {% block content %}
+        Страница не заполнена
+        {% endblock %}
+    </main>
+</div>
+</div>
+</body>
+</html>

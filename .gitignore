@@ -1,0 +1,14 @@
+mydjango/media/
+myapp3/static/
+myapp4/static/
+/__pycache__/
+log/
+*.sqlite3
+myapp4/media
+myapp/__pycache__/
+myapp2/__pycache__/
+myapp3/__pycache__/
+myapp4/__pycache__/
+myapp5/__pycache__/
+myapp6/__pycache__/
+mydjango/__pycache__/
